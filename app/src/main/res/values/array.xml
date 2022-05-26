@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ott_name">
+        <item>구독 서비스명</item>
+        <item>넷플릭스</item>
+        <item>왓챠</item>
+        <item>티빙</item>
+        <item>웨이브</item>
+        <item>디즈니플러스</item>
+        <item>쿠팡플레이</item>
+    </string-array>
+</resources>
